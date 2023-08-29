@@ -3,7 +3,7 @@
 ## 🙋‍♂️ About Me 
 👨‍💻 I'm Jack Speidel, a **full stack** software developer currently pursuing a career in the industry. 
 
-💻 I have a thirst for knowledge that is never satisfied. After learning the basics of web development independently, I enrolled in BrainStation's bootcamp to deepen my experience and understanding of some of the most widely-used technologies in the industry, namely **React**, **Node.js**, **Express**, **Sass**, **Axios**, **Knex**, **JWT** & **MySQL**. After taking this first step, I am now seeking out work while developing my knowledge of **Next.js**, **Vue**, **Rails**, **Angular** & **Django**.
+💻 I have a thirst for knowledge that is never satisfied. After learning the basics of web development independently, I enrolled in BrainStation's bootcamp to deepen my experience and understanding of some of the most widely-used technologies in the industry, namely **React**, **Node.js**, **Express**, **Sass**, **Axios**, **Knex**, **JWT** & **MySQL**. After taking this first step, I am now seeking out work while developing my knowledge of **Next.js**, **Rails**, **Angular** & **Django**.
 
 👨‍💼 My previous career in the business community has prepared me to deal with the ups and downs of programming, how to understand client needs and, perhaps most importantly, the value of an open stream of communication between business and the client.
 
