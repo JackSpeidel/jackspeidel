@@ -1,4 +1,4 @@
-# Howdy! 👋
+# Hi! 👋
 
 ## 🙋‍♂️ About Me 
 👨‍💻 I'm Jack Speidel, a **full stack** software developer currently pursuing a career in the industry. 
